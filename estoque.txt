@@ -1,0 +1,5 @@
+Remédio pra dor;7
+Remédio pro rim;5
+Remédio pro fígado;4
+Cura milagrosa;1
+Remédio misterioso;29
